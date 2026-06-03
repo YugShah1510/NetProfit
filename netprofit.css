@@ -27,7 +27,7 @@
     width: 100%;
 }
 .border{
-    border:1.5x solid transparent;
+    border:2.5x solid transparent;
 }
 .border:hover{
     border:1.5px solid rgb(27, 118, 27);
